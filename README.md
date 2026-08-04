@@ -1,2 +1,2 @@
-<title>This is a basic calculator</title>
+This is a basic calculator
 <p>This is a very basic form of coding with html,css,js as part of languages included</p>
